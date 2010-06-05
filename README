@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3112
+
+Usage:
+
+ :Remove[!] [file]
+
+With a ! the script will remove the specified file without prompting.  If file is omitted, the script uses the file associated with the current buffer.
+
+This script does not delete, change, or update any associated buffers in any way.
